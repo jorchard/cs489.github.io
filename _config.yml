@@ -1,3 +1,5 @@
+title: CS 489/698
+logo: /images/UWaterloo_logo.jpg
 theme: jekyll-theme-minimal
-baseurl: "blah cs489.github.io"
+baseurl: "cs489.github.io"
 url: "https://jorchard.github.io"
