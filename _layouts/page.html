@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="page">
-  <h1 class="page-title">Blah {{ page.title }}{% if page.image %}<img style="float: right;" src="{{ site.baseurl }}/{{ page.image }}" align="right" height="80px">{% endif %}
+  <h1 class="page-title">{{ page.title }}{% if page.image %}<img style="float: right;" src="{{ site.baseurl }}/{{ page.image }}" align="right" height="80px">{% endif %}
 </h1>
   {{ content }}
 </div>
