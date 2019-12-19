@@ -1,0 +1,17 @@
+<html lang="en-us">
+
+
+<ul>
+  {% assign sorted_photos = (site.photos | sort: 'date') | reverse %}
+  {% for photo in sorted_photos %}
+    {{ photo.title }}
+      <a href="{{ photo.url | prepend: site.baseurl }}">
+        <img style="height:100px" src="photos/{{ photo.image }}" alt="{{ photo.title }}" />
+      </a>
+    
+  {% endfor %}
+</ul>
+
+
+</html>
+

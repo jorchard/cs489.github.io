@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="container">
+
+  <figure class="photo">
+    <img src="{{ page.image }}" alt="{{ page.title }}" />
+    <figcaption>{{ page.title }}, {{ page.date | date_to_string }}</figcaption>
+  </figure>
+
+  {{ content }}
+
+</div>
