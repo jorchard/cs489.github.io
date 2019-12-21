@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: Winter 2020
 ---
 
 This course surveys how networks of neurons can perform computation. We will cover a variety of methods for designing and training neural networks. We will study some state-of-the-art methods for artificial neural networks, as well as some approaches that are guided by the biological constraints of the brain. We will look at both supervised and unsupervised learning. Other topics include population coding.
@@ -32,7 +32,9 @@ By the end of the course, students will be able to:
 The course will have several assignments, a midterm, and final exam. Assignments will involve programming in Python. The approximate grade breakdown is:
 - 50% Assignments
 - 15% Midterm Exam
-- 35% Final Exam for those taking CS 489, or 35% Project for those taking CS 698
+- 35% Final Assessment
+  - Final exam for those taking CS 489, or
+  - Project for those taking CS 698
 
 ## Topics
 

@@ -1,7 +1,8 @@
 ---
-layout: default
-title: CS 489: Demonstrations
+layout: page
+title: Class Demonstrations
 ---
 
-Hodgkin-Huxley Model
+## Background
+- [Hodgkin-Huxley Model](demos/learning_widgets.html){:target="_blank"}
 
