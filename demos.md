@@ -4,5 +4,5 @@ title: Class Demonstrations
 ---
 
 ## Background
-- [Hodgkin-Huxley Model](demos/learning_widgets.html){:target="_blank"}
+- [Placeholder (test)](demos/learning_widgets.html){:target="_blank"}
 
