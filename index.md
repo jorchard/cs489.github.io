@@ -49,6 +49,7 @@ The course will have several assignments, a midterm, and final exam. Assignments
 2. Supervised Learning (8 hours)
 - Perceptron
 - Train, validation, testing
+- Universal Approximation Theorem
 - Cost functions
 - Gradient descent using finite-difference approximation
 - Error Backpropagation
