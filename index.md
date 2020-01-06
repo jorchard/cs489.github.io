@@ -30,9 +30,10 @@ By the end of the course, students will be able to:
 
 ## Evaluation
 The course will have several assignments, a midterm, and final exam. Assignments will involve programming in Python. The approximate grade breakdown is:
-- 50% Assignments
-- 15% Midterm Exam
-- 35% Final Assessment
+- 40% Assignments
+- 10% Test 1
+- 10% Test 2
+- 40% Final Assessment
   - Final exam for those taking CS 489, or
   - Project for those taking CS 698
 
