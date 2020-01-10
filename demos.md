@@ -4,5 +4,5 @@ title: Class Demonstrations
 ---
 
 ## Background
-- [Placeholder (test)](demos/learning_widgets.html){:target="_blank"}
+- [Neuron Models](demos/Neuron_Models.html){:target="_blank"}
 
