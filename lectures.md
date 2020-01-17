@@ -8,4 +8,6 @@ title: Lecture Videos
 - [Lecture 3: LIF (Jan 10)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture3/Lecture3.html){:target="_blank"}
 - [Lecture 4: Synapses (Jan 13)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture4/Lecture4.html){:target="_blank"}
 - [Lecture 5: Synapses, Learning Overview (Jan 15)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture5/Lecture5.html){:target="_blank"}
+- [Lecture 6: Supervised Learning, Universal Approx Them (Jan 17)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture6/Lecture6.html){:target="_blank"}
+
 
