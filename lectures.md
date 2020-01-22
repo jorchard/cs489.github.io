@@ -10,5 +10,6 @@ title: Lecture Videos
 - [Lecture 5: Synapses, Learning Overview (Jan 15)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture5/Lecture5.html){:target="_blank"}
 - [Lecture 6: Supervised Learning, Universal Approx Thm (Jan 17)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture6/Lecture6.html){:target="_blank"}
 - [Lecture 7: Univ Approx Thm, Loss Functions (Jan 20)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture7/Lecture7.html){:target="_blank"}
+- [Lecture 8: Perceptrons, Gradient Descent (Jan 22)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture8/Lecture8.html){:target="_blank"}
 
 
