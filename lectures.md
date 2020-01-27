@@ -12,5 +12,6 @@ title: Lecture Videos
 - [Lecture 7: Univ Approx Thm, Loss Functions (Jan 20)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture7/Lecture7.html){:target="_blank"}
 - [Lecture 8: Perceptrons, Gradient Descent (Jan 22)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture8/Lecture8.html){:target="_blank"}
 - [Lecture 9: Numerical Gradient Descent, Backprop (Jan 24)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture9/Lecture9.html){:target="_blank"}
+- [Lecture 10: Backprop - part 2 (Jan 27)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture10/Lecture10.html){:target="_blank"}
 
 
