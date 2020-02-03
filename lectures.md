@@ -15,5 +15,6 @@ title: Lecture Videos
 - [Lecture 10: Backprop - part 2 (Jan 27)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture10/Lecture10.html){:target="_blank"}
 - [Lecture 11: Backprop Demo, Training/Testing, Weight Decay (Jan 29)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture11/Lecture11.html){:target="_blank"}
 - [Lecture 12: Regularization (Weight Decay, Data Augmentation, Dropout) (Jan 31)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture12/Lecture12.html){:target="_blank"}
+- [Lecture 13: Dropout, Enhancing Optimization) (Feb 3)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture13/Lecture13.html){:target="_blank"}
 
 
