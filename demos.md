@@ -10,3 +10,4 @@ title: Class Demonstrations
 ## Supervised Learning
 - [Universal Approximation Theorem](demos/Universal Approx.html){:target="_blank"}
 - [Gradient Descent](demos/Gradient Descent.html){:target="_blank"}
+- [Overfitting and Regularization](demos/Overfitting_and_Regularization.html){:target="_blank"}
