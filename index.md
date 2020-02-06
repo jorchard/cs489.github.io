@@ -54,7 +54,6 @@ The course will have several assignments, a midterm, and final exam. Assignments
 - Cost functions
 - Gradient descent using finite-difference approximation
 - Error Backpropagation
-- Associative memory
 - Stochastic Gradient Descent (SGD)
 - Regularization, Momentum, Dropout
 
