@@ -13,3 +13,6 @@ title: Class Demonstrations
 - [Overfitting and Regularization](demos/Overfitting_and_Regularization.html){:target="_blank"}
 - [Momentum](demos/Momentum.html){:target="_blank"}
 - [Vanishing/Exploding Gradients](demos/Vanishing Gradient.html){:target="_blank"}
+
+## Unsupervised Learning
+- [Hopfield Networks](demos/Hopfield.html){:target="_blank"}
