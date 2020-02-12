@@ -17,6 +17,7 @@ title: Lecture Videos
 - [Lecture 12: Regularization (Weight Decay, Data Augmentation, Dropout) (Jan 31)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture12/Lecture12.html){:target="_blank"}
 - [Lecture 13: Dropout, Enhancing Optimization (Feb 3)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture13/Lecture13.html){:target="_blank"}
 - [Lecture 14: Vector Processing, SGD, Momentum (Feb 5)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture14/Lecture14.html){:target="_blank"}
-- [Lecture 15: Vanishing Gradient, Hopefield Networks (Feb 10)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture15/Lecture15.html){:target="_blank"}
+- [Lecture 15: Vanishing Gradient, Hopfield Networks (Feb 10)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture15/Lecture15.html){:target="_blank"}
+- [Lecture 16: Hopfield Networks, Hopfield Energy (Feb 12)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture16/Lecture16.html){:target="_blank"}
 
 
