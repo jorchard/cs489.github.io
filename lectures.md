@@ -20,5 +20,6 @@ title: Lecture Videos
 - [Lecture 15: Vanishing Gradient, Hopfield Networks (Feb 10)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture15/Lecture15.html){:target="_blank"}
 - [Lecture 16: Hopfield Networks, Hopfield Energy (Feb 12)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture16/Lecture16.html){:target="_blank"}
 - [Lecture 17: Learning in Hopfield Networks, Autoencoders (Feb 14)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture17/Lecture17.html){:target="_blank"}
+- [Lecture 18: Autoencoder Demo, RBMs (Feb 24)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture18/Lecture18.html){:target="_blank"}
 
 
