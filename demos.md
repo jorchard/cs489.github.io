@@ -16,3 +16,4 @@ title: Class Demonstrations
 
 ## Unsupervised Learning
 - [Hopfield Networks](demos/Hopfield.html){:target="_blank"}
+- [Autoencoders](demos/Autoencoder.html){:target="_blank"}
