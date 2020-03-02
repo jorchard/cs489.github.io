@@ -22,6 +22,7 @@ title: Lecture Videos
 - [Lecture 17: Learning in Hopfield Networks, Autoencoders (Feb 14)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture17/Lecture17.html){:target="_blank"}
 - [Lecture 18: Autoencoder Demo, RBMs (Feb 24)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture18/Lecture18.html){:target="_blank"}
 - [Lecture 19: RBMs (Feb 26)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture19/Lecture19.html){:target="_blank"}
-- [Lecture 20: RBM Demo, Self-Organizing Maps (Feb 28)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture20/Lecture20.html){:target="_blank"}
+- [Lecture 20: RBM Demo, Self-Organizing Maps (SOM) (Feb 28)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture20/Lecture20.html){:target="_blank"}
+- [Lecture 21: SOM Demo, Recurrent Networks, Backprop Through Time (Mar 2)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture21/Lecture21.html){:target="_blank"}
 
 
