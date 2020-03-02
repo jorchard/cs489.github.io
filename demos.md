@@ -18,3 +18,4 @@ title: Class Demonstrations
 - [Hopfield Networks](demos/Hopfield.html){:target="_blank"}
 - [Autoencoders](demos/Autoencoder.html){:target="_blank"}
 - [Restricted Boltzmann Machines](demos/demo_RBM.html){:target="_blank"}
+- [Self Organizing Maps](demos/SOM_demo.html){:target="_blank"}
