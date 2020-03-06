@@ -25,5 +25,6 @@ title: Lecture Videos
 - [Lecture 20: RBM Demo, Self-Organizing Maps (SOM) (Feb 28)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture20/Lecture20.html){:target="_blank"}
 - [Lecture 21: SOM Demo, Recurrent Networks, Backprop Through Time (Mar 2)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture21/Lecture21.html){:target="_blank"}
 - [Lecture 22: Backprop Through Time (Mar 4)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture22/Lecture22.html){:target="_blank"}
+- [Lecture 23: Long Short-Term Memory (Mar 6)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture23/Lecture23.html){:target="_blank"}
 
 
