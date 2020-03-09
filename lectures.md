@@ -26,5 +26,6 @@ title: Lecture Videos
 - [Lecture 21: SOM Demo, Recurrent Networks, Backprop Through Time (Mar 2)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture21/Lecture21.html){:target="_blank"}
 - [Lecture 22: Backprop Through Time (Mar 4)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture22/Lecture22.html){:target="_blank"}
 - [Lecture 23: Long Short-Term Memory (Mar 6)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture23/Lecture23.html){:target="_blank"}
+- [Lecture 24: LSTM Recap, Population Coding (Mar 9)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture24/Lecture24.html){:target="_blank"}
 
 
