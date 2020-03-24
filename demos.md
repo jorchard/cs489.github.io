@@ -22,5 +22,5 @@ title: Class Demonstrations
 
 ## Population Coding
 - [Population Coding/Decoding](demos/Population Coding.html){:target="_blank"}
-- [Vector Enoding](demos/Vector Encoding.html){:target="_blank"}
+- [Vector Encoding](demos/Vector Encoding.html){:target="_blank"}
 - [Transformations](demos/Transformations.html){:target="_blank"}
