@@ -19,3 +19,8 @@ title: Class Demonstrations
 - [Autoencoders](demos/Autoencoder.html){:target="_blank"}
 - [Restricted Boltzmann Machines](demos/demo_RBM.html){:target="_blank"}
 - [Self Organizing Maps](demos/SOM_demo.html){:target="_blank"}
+
+## Population Coding
+- [Population Coding/Decoding](demos/Population Coding.html){:target="_blank"}
+- [Vector Enoding](demos/Vector Encoding.html){:target="_blank"}
+- [Transformations](demos/Transformations.html){:target="_blank"}
