@@ -24,3 +24,5 @@ title: Class Demonstrations
 - [Population Coding/Decoding](demos/Population Coding.html){:target="_blank"}
 - [Vector Encoding](demos/Vector Encoding.html){:target="_blank"}
 - [Transformations](demos/Transformations.html){:target="_blank"}
+<!--- - [Integrator](demos/Integrator.html){:target="_blank"} -->
+<!--- - [Attractor Demo](demos/Fixed Point.html){:target="_blank"} -->
