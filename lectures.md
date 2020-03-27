@@ -30,6 +30,6 @@ title: Lecture Videos
 - [Lecture 25: Population Coding, Vector Coding (Mar 11)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture25/Lecture25.html){:target="_blank"}
 - [Lecture 26: Vector Coding (Mar 23)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture26/Lecture26.html){:target="_blank"}
 - [Lecture 27: Transformations (Mar 25)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture27/Lecture27.html){:target="_blank"}
-<!--- [Lecture 28: Transformations (Mar 27)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture27/Lecture27.html){:target="_blank"} -->
+- [Lecture 28: Population Dynamics (Mar 27)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture28/Lecture28.html){:target="_blank"}
 
 
