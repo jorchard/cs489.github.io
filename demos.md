@@ -25,4 +25,4 @@ title: Class Demonstrations
 - [Vector Encoding](demos/Vector Encoding.html){:target="_blank"}
 - [Transformations](demos/Transformations.html){:target="_blank"}
 - [Integrator](demos/Integrator.html){:target="_blank"}
-- [Attractor Demo](demos/Fixed Point.html){:target="_blank"}
+- [Attractor Demo](demos/Fixed Points.html){:target="_blank"}
