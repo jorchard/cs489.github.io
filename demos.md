@@ -26,3 +26,4 @@ title: Class Demonstrations
 - [Transformations](demos/Transformations.html){:target="_blank"}
 - [Integrator](demos/Integrator.html){:target="_blank"}
 - [Attractor Demo](demos/Fixed Points.html){:target="_blank"}
+- [Learning Decoders Demo](demos/Learning.html){:target="_blank"}
