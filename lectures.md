@@ -32,5 +32,6 @@ title: Lecture Videos
 - [Lecture 27: Transformations (Mar 25)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture27/Lecture27.html){:target="_blank"}
 - [Lecture 28: Population Dynamics (Mar 27)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture28/Lecture28.html){:target="_blank"}
 - [Lecture 29: Learning Decoders (Mar 30)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture29/Lecture29.html){:target="_blank"}
+- [Lecture 30: Vector Embeddings (April 1)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture30/Lecture30.html){:target="_blank"}
 
 
