@@ -27,3 +27,8 @@ title: Class Demonstrations
 - [Integrator](demos/Integrator.html){:target="_blank"}
 - [Attractor Demo](demos/Fixed Points.html){:target="_blank"}
 - [Learning Decoders Demo](demos/Learning.html){:target="_blank"}
+
+## Advanced Topics
+- [Word2Vec Demo](demos/word2vec.html){:target="_blank"}
+
+
