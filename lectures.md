@@ -33,5 +33,6 @@ title: Lecture Videos
 - [Lecture 28: Population Dynamics (Mar 27)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture28/Lecture28.html){:target="_blank"}
 - [Lecture 29: Learning Decoders (Mar 30)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture29/Lecture29.html){:target="_blank"}
 - [Lecture 30: Vector Embeddings (April 1)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture30/Lecture30.html){:target="_blank"}
+- [Lecture 31: Adversarial Attacks, GANs (April 3)](http://cs.uwaterloo.ca/~jorchard/cs489/videos/Lecture31/Lecture31.html){:target="_blank"}
 
 
