@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Winter 2020
+title: Winter 2021
 ---
 
 This course surveys how networks of neurons can perform computation. We will cover a variety of methods for designing and training neural networks. We will study some state-of-the-art methods for artificial neural networks, as well as some approaches that are guided by the biological constraints of the brain. We will look at both supervised and unsupervised learning. Other topics include population coding.
@@ -13,10 +13,11 @@ This course surveys how networks of neurons can perform computation. We will cov
 
 ## Goals
 By the end of the course, students will be able to:
-- Write a program to simulate the activity of a network of neurons
-- Formulate a neural learning method as a gradient-based optimization
-- Write a program (in Python) to implement a neural learning method from scratch
-- Use a software package and supplied data to train a neural network
+- Write a program to simulation the activity of a network of neurons
+- Formulate a neural learning method as gradient-based optimization
+- Derive a neural learning method based on energy minimization
+- Encode and decode data from the activity of a population of neurons
+- Evaluate implementations, designs, and optimization strategies
 - Identify some commonalities between artificial neural networks and the brain
 
 ## Textbooks
@@ -26,15 +27,16 @@ By the end of the course, students will be able to:
 - *Neural Engineering*, Eliasmith and Anderson, 2003: MIT Press.
 
 ## Lecture Schedule
-- MWF 11:30 - 12:20, STC 0060
+The course will be offered online, but we will have some live tutorials each week (recorded).
+- Tutorial time: TBD
 
 ## Evaluation
 The course will have several assignments, a midterm, and final exam. Assignments will involve programming in Python. The approximate grade breakdown is:
+- 20% Quizes
+- 10% Peer Evaluation
 - 40% Assignments
-- 10% Test 1
-- 10% Test 2
-- 40% Final Assessment
-  - Final exam for those taking CS 489, or
+- 30% Final Assessment
+  - Take-home final exam for those taking CS 489, or
   - Project for those taking CS 698
 
 ## Topics
@@ -53,6 +55,7 @@ The course will have several assignments, a midterm, and final exam. Assignments
 - Universal Approximation Theorem
 - Cost functions
 - Gradient descent using finite-difference approximation
+- Autodifferentiation
 - Error Backpropagation
 - Stochastic Gradient Descent (SGD)
 - Regularization, Momentum, Dropout
